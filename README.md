@@ -1,4 +1,4 @@
-**Note that you need mingw compiler to run it
+**Note that you need mingw compiler to run it<br>
 -Enjoy the source code C:
 
 ![image](https://github.com/user-attachments/assets/ae578d60-e8fa-4fbd-99a5-0127053dfbec)
